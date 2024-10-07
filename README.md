@@ -114,7 +114,7 @@ PhyGenBench/single_question.json, PhyGenBench/multi_question.json, and PhyGenBen
 
 ### Three-tier Evaluation
 
-Our evaluations all use only one A100-80G. When using it, we have marked the python files that need to be allowed. Please write the appropriate script file according to your system (slurm or ...)
+Our evaluations all use only **one A100-80G**. When using it, we have marked the python files that need to be run. Please write the appropriate script file according to your system (slurm or ...)
 
 **Key Physical Phenomena Detection:**
 
