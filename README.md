@@ -59,11 +59,11 @@ we design a progressive strategy that starts with key physical phenomena, then m
 ## 🚀 Quick Start
 
 ### File Structure
-- PhyGenBench, which includes the test prompt: prompts.json
-- PhyGenBench also includes the example problems we showcase in three different stages
-- PhyGenEval includes the semantic evaluation method, as well as the three-stage physical commonsense evaluation methods: single, multi, video
-- result contains the results of Kling's test on PhyGenBench
-- PhyVideos contains the videos to be tested. Please generate the videos according to prompts.json and place them here.
+- PhyGenBench, which includes the test prompt: **prompts.json**
+- PhyGenBench also includes the example questions we showcase in three different stages in PhyGenEval: **single_question.json, multi_question.json, and video_question.json**
+- PhyGenEval includes codes of the semantic evaluation method, as well as the codes of the three-stage physical commonsense evaluation methods: single, multi, video
+- result contains the evaluation results of Kling on PhyGenBench: **kelingall.json**
+- PhyVideos contains the **videos to be tested**. Please generate the videos according to prompts.json and place them here.
 	- For example, for Kling, name the files as output_video_{index+1}.mp4, where index corresponds to the prompt number in prompts.json
 
 ### Environment
