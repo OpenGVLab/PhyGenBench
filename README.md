@@ -17,6 +17,8 @@ This repository is the official implementation of [PhyGenBench]([https://arxiv.o
 
 ## 💡 News
 
+- `2024/10/07`: We release our [homepage](https://phygenbench123.github.io/), where have more video examples for demonstration
+
 - `2024/10/07`: We have released the codes and data. 
 
 
