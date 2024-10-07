@@ -8,9 +8,9 @@
   <a href="#🖊️-citation"><b>Citation</b></a> <br>
 </p>
 
-This repository is the official implementation of [PhyGenBench](https://arxiv.org/abs/2408.02718). 
+This repository is the official implementation of [PhyGenBench]([https://arxiv.org/abs/2408.02718](https://github.com/OpenGVLab/PhyGenBench)). 
 
-> [Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation](https://arxiv.org/abs/2408.02718)  
+> [Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation]([https://arxiv.org/abs/2408.02718](https://github.com/OpenGVLab/PhyGenBench))  
 > Fanqing Meng<sup>\*</sup>, Jiaqi Liao<sup>\*</sup>, Xinyu Tan, Wenqi Shao<sup>\#</sup>, Quanfeng Lu, Kaipeng Zhang, Cheng Yu, Dianqi Li, Yu Qiao, Ping Luo<sup>\#</sup>  
 > <sup>\*</sup> MFQ and LJQ contribute equally.  
 > <sup>\#</sup> SWQ (shaowenqi@pjlab.org.cn) and LP are correponding authors. 
