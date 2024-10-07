@@ -1,0 +1,962 @@
+[
+    {
+        "caption": "A cup of water is slowly poured out in the space station, releasing the liquid into the surrounding area",
+        "physical_laws": "Lack of gravity",
+        "sub_category": "Gravity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A cup of oil is slowly poured out in the space station, releasing the liquid into the surrounding area",
+        "physical_laws": "Lack of gravity",
+        "sub_category": "Gravity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A bottle of juice is slowly poured out in the space station, releasing the liquid into the surrounding area",
+        "physical_laws": "Lack of gravity",
+        "sub_category": "Gravity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A squeeze of honey is slowly released in the space station, spreading the liquid into the surrounding area",
+        "physical_laws": "Lack of gravity",
+        "sub_category": "Gravity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A can of soda is slowly poured out in the space station, releasing the liquid into the surrounding area",
+        "physical_laws": "Lack of gravity",
+        "sub_category": "Gravity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A piece of iron is gently placed on the surface of the water in a tank filled with water.",
+        "physical_laws": "Due to buoyancy and density of objects, the iron block will sink",
+        "sub_category": "Buoyancy",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A stone is gently placed on the surface of a pool filled with water.",
+        "physical_laws": "Due to buoyancy and density of objects, the stone will sink",
+        "sub_category": "Buoyancy",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A tennis ball is gently placed on the surface of a bucket filled with water.",
+        "physical_laws": "Due to buoyancy and density of objects, the wood block will float on the water",
+        "sub_category": "Buoyancy",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A piece of wood block is gently placed on the surface of a bowl filled with water.",
+        "physical_laws": "Due to buoyancy and density of objects, the wood block will float on the water",
+        "sub_category": "Buoyancy",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A glass ball is gently placed on the surface of a bathtub filled with water.",
+        "physical_laws": "Due to buoyancy and density of objects, the glass ball will sink",
+        "sub_category": "Buoyancy",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of a water-filled sponge being forcefully squeezed by hand, with the pressure intensifying rapidly over time.",
+        "physical_laws": "Due to stress, the sponge will shrink with the water in the sponge squeezed out",
+        "sub_category": "Stress",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of a water-filled soft towel being forcefully squeezed by hand, with the pressure intensifying rapidly over time.",
+        "physical_laws": "Due to stress, the towel will shrink with the water in the towel squeezed out",
+        "sub_category": "Stress",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of a balloon filled with air being pressed down by hand, with the pressure intensifying rapidly over time.",
+        "physical_laws": "Due to stress, the balloon will shrink and deformed",
+        "sub_category": "Stress",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of a open toothpaste tube being squeezed by hand, with the pressure intensifying rapidly over time.",
+        "physical_laws": "Due to stress, Toothpaste will be squeezed out and the tube will deform with the toothpaste being dispensed",
+        "sub_category": "Stress",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of a water-filled soft cloth being forcefully squeezed by hand, with the pressure intensifying rapidly over time.",
+        "physical_laws": "Due to stress, the cloth will shrink with the water in the cloth squeezed out",
+        "sub_category": "Stress",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of air being gradually and forcefully extracted from the mouth of an empty, thin, sealed plastic bottle.",
+        "physical_laws": "Due to atmosphere pressure outside, the plastic bottle will be shrinking",
+        "sub_category": "Atmosphere Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of air being gradually and forcefully extracted from a sealed, empty aluminum can.",
+        "physical_laws": "Due to atmospheric pressure outside, the aluminum can will be shrinking",
+        "sub_category": "Atmospheric Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of air being gradually and forcefully extracted from a sealed, empty plastic ball.",
+        "physical_laws": "Due to atmospheric pressure outside, the plastic ball will be shrinking",
+        "sub_category": "Atmospheric Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of air being gradually and forcefully pulled out of an empty, thin, sealed aluminium can.",
+        "physical_laws": "Due to atmospheric pressure outside, the aluminium can will be crumpling",
+        "sub_category": "Atmosphere Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A timelapse of air being gradually and forcefully extracted from the interior of a thin, sealed balloon.",
+        "physical_laws": "Due to atmospheric pressure outside, the balloon will collapse inward.",
+        "sub_category": "Atmosphere Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A hand slowly presses a needle into the surface of a fully inflated balloon, with the tip gradually penetrating the outer layer.",
+        "physical_laws": "Due to high pressure of the needle, the balloon will explode",
+        "sub_category": "Solid Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A pencil slowly presses into the surface of a tightly stretched rubber sheet, with the tip gradually penetrating the outer layer.",
+        "physical_laws": "Due to high pressure of the pencil, the rubber sheet will tear",
+        "sub_category": "Solid Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A fork slowly presses a tensed piece of plastic wrap, with the tines gradually penetrating the outer layer.",
+        "physical_laws": "Due to high pressure of the fork, the plastic wrap will rupture",
+        "sub_category": "Solid Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A pin slowly presses into the surface of a water-filled balloon, with the tip gradually penetrating the outer layer.",
+        "physical_laws": "Due to high pressure of the pin, the balloon will burst",
+        "sub_category": "Solid Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A pencil slowly presses into the surface of a fully inflated balloon, with the tip gradually penetrating the outer layer.",
+        "physical_laws": "Due to high pressure of the pencil, the balloon will explode",
+        "sub_category": "Solid Pressure",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A vibrant, elastic rubber ball is thrown forcefully towards the ground, capturing its dynamic interaction with the surface upon impact.",
+        "physical_laws": "Due to elasticity, the elastic rubber ball will bounce up",
+        "sub_category": "Elasticity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A vibrant, elastic basketball is thrown forcefully towards the ground, capturing its dynamic interaction with the surface upon impact.",
+        "physical_laws": "Due to elasticity, the elastic basketball will bounce up",
+        "sub_category": "Elasticity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A vibrant, elastic tennis ball is thrown forcefully towards the ground, capturing its dynamic interaction with the surface upon impact.",
+        "physical_laws": "Due to elasticity, the elastic tennis ball will bounce up",
+        "sub_category": "Elasticity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A vibrant, elastic football is thrown forcefully towards the ground, capturing its dynamic interaction with the surface upon impact.",
+        "physical_laws": "Due to elasticity, the elastic football will bounce up",
+        "sub_category": "Elasticity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A vibrant, elastic beach ball is thrown forcefully towards the ground, capturing its dynamic interaction with the surface upon impact.",
+        "physical_laws": "Due to elasticity, the elastic beach ball will bounce up",
+        "sub_category": "Elasticity",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A piece of white chalk is used to write on the rough, dark surface of a blackboard,showcasing the interaction between the chalk and the blackboard surface.",
+        "physical_laws": "Due to friction, there will be chalk mark on the blackboard",
+        "sub_category": "Friction",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A blue marker is used to write on the smooth, white surface of a whiteboard, showcasing the interaction between the marker and the whiteboard surface.",
+        "physical_laws": "Due to friction, there will be a marker mark on the whiteboard",
+        "sub_category": "Friction",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A piece of red crayon is used to draw on the rough, white surface of a paper, showcasing the interaction between the crayon and the paper surface.",
+        "physical_laws": "Due to friction, there will be a crayon mark on the paper",
+        "sub_category": "Friction",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A yellow highlighter is used to mark on the rough, brown surface of a cardboard, showcasing the interaction between the highlighter and the cardboard surface.",
+        "physical_laws": "Due to friction, there will be a highlighter mark on the cardboard",
+        "sub_category": "Friction",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A black pen is used to write on the smooth, white surface of a notebook, showcasing the interaction between the pen and the notebook surface.",
+        "physical_laws": "Due to friction, there will be a pen mark on the notebook",
+        "sub_category": "Friction",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A glistening dewdrop is sliding gracefully across the textured surface of a lotus leaf, accentuating its shape as it moves",
+        "physical_laws": "Due to surface tension, the dewdrop will form spherical droplets",
+        "sub_category": "Surface Tension",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A glistening dewdrop is sliding gracefully across the smooth surface of a glass, accentuating its shape as it moves",
+        "physical_laws": "Due to surface tension, the dewdrop will form spherical droplets",
+        "sub_category": "Surface Tension",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A glistening dewdrop is sliding gracefully across the smooth surface of a waxed apple, accentuating its shape as it moves",
+        "physical_laws": "Due to surface tension, the dewdrop will form spherical droplets",
+        "sub_category": "Surface Tension",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A glistening dewdrop is sliding gracefully across the smooth surface of a ceramic vase, accentuating its shape as it moves",
+        "physical_laws": "Due to surface tension, the drop of water will form spherical droplets",
+        "sub_category": "Surface Tension",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A glistening dewdrop is sliding gracefully across the textured surface of a book, accentuating its shape as it moves",
+        "physical_laws": "Due to surface tension, the dewdrop will form spherical droplets",
+        "sub_category": "Surface Tension",
+        "main_category": "Force"
+    },
+    {
+        "caption": "A ray of light is shining diagonally on a wooden block in the dark, with the shadow of the wooden block appearing at the bottom.",
+        "physical_laws": "Due to direct radiation of light, the light path will be blocked by the wooden block, thus the shadow of the wooden block will appear at the bottom",
+        "sub_category": "Direct Radiation",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A ray of light is shining diagonally on a metal can in the dark, with the shadow of the metal can appearing at the bottom.",
+        "physical_laws": "Due to direct radiation of light, the light path will be blocked by the metal can, thus the shadow of the metal can will appear at the bottom.",
+        "sub_category": "Direct Radiation",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A ray of light is shining diagonally on a glass bottle in the dark, with the shadow of the glass bottle appearing at the bottom.",
+        "physical_laws": "Due to direct radiation of light, the light path will be blocked by the glass bottle, thus the shadow of the glass bottle will appear at the bottom.",
+        "sub_category": "Direct Radiation",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A ray of light is shining diagonally on a plastic cup in the dark, with the shadow of the plastic cup appearing at the bottom.",
+        "physical_laws": "Due to direct radiation of light, the light path will be blocked by the plastic cup, thus the shadow of the plastic cup will appear at the bottom.",
+        "sub_category": "Direct Radiation",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A ray of light is shining diagonally on a cardboard box in the dark, with the shadow of the cardboard box appearing at the bottom.",
+        "physical_laws": "Due to direct radiation of light, the light path will be blocked by the cardboard box, thus the shadow of the cardboard box will appear at the bottom.",
+        "sub_category": "Direct Radiation",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A concentrated, bright beam of light generated by a laser pointer is passing through a glass of thick whole milk, creating a mesmerizing display as the light interacts with the milk's particles, casting intricate patterns and subtle hues within the fluid. ",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the milk",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A concentrated, bright beam of light generated by a flashlight is passing through a bowl of murky water, creating a mesmerizing display as the light interacts with the water's particles, casting intricate patterns and subtle hues within the fluid.",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the water",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A focused, bright beam of light generated by a car headlight is passing through a jar of dusty air, creating a mesmerizing display as the light interacts with the dust particles, casting intricate patterns and subtle hues within the air.",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the air",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A directed, bright beam of light generated by a phone flashlight is passing through a container of stirred muddy water, creating a mesmerizing display as the light interacts with the mud particles, casting intricate patterns and subtle hues within the fluid.",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the muddy water",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A narrow, bright beam of light generated by a reading lamp is passing through a bottle of mixed orange juice, creating a mesmerizing display as the light interacts with the juice particles, casting intricate patterns and subtle hues within the liquid.",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the juice",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A ray of light generated by headlights is passing through heavy fog",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the fog",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A ray of light generated by a flashlight is passing through a dusty room.",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the dust",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A ray of light generated by a laser pointer is passing through smoke.",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the smoke",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A ray of light generated by a flashligh is passing through thick mist.",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the mist",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A ray of light generated by a projector is passing through a dark room with fine dust particles.",
+        "physical_laws": "Due to tyndall effect, there will be a clearly visible light path in the dust",
+        "sub_category": "Tyndall Effect",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A bird is flying over a calm and clear lake surface, with the reflection of the bird appearing on the water surface.",
+        "physical_laws": "Due to reflection, the lake will present inverted images of the bird, the sky and the surrounding landscapes, which are the same size as the original entities",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A kite is soaring above a smooth and tranquil pond, with the reflection of the kite appearing on the water surface.",
+        "physical_laws": "Due to reflection, the pond will present inverted images of the kite, the sky and the surrounding landscapes, which are the same size as the original entities",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A plane is gliding over a still and crystal-clear river, with the reflection of the plane appearing on the water surface.",
+        "physical_laws": "Due to reflection, the river will present inverted images of the plane, the sky and the surrounding landscapes, which are the same size as the original entities",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A drone is hovering above a quiet and glassy swimming pool, with the reflection of the drone appearing on the water surface.",
+        "physical_laws": "Due to reflection, the swimming pool will present inverted images of the drone, the sky and the surrounding landscapes, which are the same size as the original entities",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A balloon is floating over a serene and mirror-like ocean, with the reflection of the balloon appearing on the water surface.",
+        "physical_laws": "Due to reflection, the ocean will present inverted images of the balloon, the sky and the surrounding landscapes, which are the same size as the original entities",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A wooden block is moving closer to an upright mirror, with the reflection in the mirror moving closer synchronously.",
+        "physical_laws": "Due to reflection, the image in the mirror should be the same size as the original wooden block",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A football is rolling towards a vertical window, with the reflection in the window moving closer synchronously.",
+        "physical_laws": "Due to reflection, the image in the window should be the same size as the original football",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A toy car is driving towards a standing glass, with the reflection in the glass moving closer synchronously.",
+        "physical_laws": "Due to reflection, the image in the glass should be the same size as the original toy car",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A basketball is being moved closer to a shiny metallic surface, with the reflection on the metallic surface moving closer synchronously.",
+        "physical_laws": "Due to reflection, the image on the metallic surface should be the same size as the original basketball",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A rubber duck is floating closer to a calm water surface, with the reflection in the water moving closer synchronously.",
+        "physical_laws": "Due to reflection, the image in the water should be the same size as the original rubber duck",
+        "sub_category": "Reflection",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A magnifying glass is gradually moving closer to the pages of an open book, revealing the intricate details and textures of the printed text as it approaches.",
+        "physical_laws": "Due to refraction, the characters in the magnifying glass should be bigger than those in the book",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A magnifying glass is gradually moving closer to the face of a wristwatch, revealing the intricate details and textures of the clock hands and numbers as it approaches.",
+        "physical_laws": "Due to refraction, the clock hands and numbers in the magnifying glass should be bigger than those on the wristwatch",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A magnifying glass is gradually moving closer to a leaf, revealing the intricate details and textures of the veins and surface patterns as it approaches.",
+        "physical_laws": "Due to refraction, the veins and surface patterns in the magnifying glass should be bigger than those on the leaf",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A magnifying glass is gradually moving closer to a coin, revealing the intricate details and textures of the embossed design as it approaches.",
+        "physical_laws": "Due to refraction, the embossed design in the magnifying glass should be bigger than those on the coin",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A magnifying glass is gradually moving closer to the petals of a flower, revealing the intricate details and textures of the flower as it approaches.",
+        "physical_laws": "Due to refraction, the details in the magnifying glass should be bigger than those on the flower",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A clear plastic straw is slowly inserted into a glass of crystal-clear water, revealing the fascinating visual changes and reflections that occur as the straw interacts with the liquid.",
+        "physical_laws": "Due to refraction, the part above water and the part in water will have a tiny offset at the water surface",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A silver spoon is slowly inserted into a glass of crystal-clear water, revealing the fascinating visual changes and reflections as the spoon interacts with the liquid.",
+        "physical_laws": "Due to refraction, the part above water and the part in water will have a tiny offset at the water surface",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A wooden pencil is carefully dipped into a glass of crystal-clear water, showing the intriguing visual shifts and reflections caused by the interaction between the pencil and the liquid.",
+        "physical_laws": "Due to refraction, the part above water and the part in water will have a tiny offset at the water surface",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A metal fork is gently placed into a glass of crystal-clear water, displaying the interesting visual distortions and reflections as the fork meets the liquid.",
+        "physical_laws": "Due to refraction, the part above water and the part in water will have a tiny offset at the water surface",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A plastic ruler is slowly submerged into a glass of crystal-clear water, highlighting the noticeable visual changes and reflections as the ruler interacts with the liquid.",
+        "physical_laws": "Due to refraction, the part above water and the part in water will have a tiny offset at the water surface",
+        "sub_category": "Refraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A large number of soap bubbles are floating in the air under the sunlight.",
+        "physical_laws": "Due to interference & diffraction, the bubbles will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A group of oil droplets is floating on the surface of water in the sunlight.",
+        "physical_laws": "Due to interference & diffraction, the droplets will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "Several glass marbles are placed on a floor under the sunlight.",
+        "physical_laws": "Due to interference & diffraction, the marbles will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A bunch of mist particles are suspended in the air under the sunlight.",
+        "physical_laws": "Due to interference & diffraction, the particles will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A collection of prisms is arranged in a pattern with sunlight shining through them.",
+        "physical_laws": "Due to interference & diffraction, the prisms will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A puddle of oil on the road under the sunlight.",
+        "physical_laws": "Due to interference & diffraction, the oil will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A soap bubble floating in the air under the sunlight.",
+        "physical_laws": "Due to interference and diffraction, the bubble will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A film of soap on a wand under the sunlight.",
+        "physical_laws": "Due to interference and diffraction, the film will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A thin layer of gasoline on water under the sunlight.",
+        "physical_laws": "Due to interference and diffraction, the layer will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A layer of detergent on a wet surface under the sunlight.",
+        "physical_laws": "Due to interference and diffraction, the layer will be colorful",
+        "sub_category": "Interference & Diffraction",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A beam of light passes through a prism.",
+        "physical_laws": "Due to the dispersion of light, it emits multicolored light.",
+        "sub_category": "Dispersion",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A beam of light passes through a crystal chandelier.",
+        "physical_laws": "Due to the dispersion of light, it emits multicolored light.",
+        "sub_category": "Dispersion",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A beam of light passes through a droplet of water.",
+        "physical_laws": "Due to the dispersion of light, it emits multicolored light.",
+        "sub_category": "Dispersion",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A beam of light passes through a glass diamond.",
+        "physical_laws": "Due to the dispersion of light, it emits multicolored light.",
+        "sub_category": "Dispersion",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A beam of light passes through a soap bubble.",
+        "physical_laws": "Due to the dispersion of light, it emits multicolored light.",
+        "sub_category": "Dispersion",
+        "main_category": "Light"
+    },
+    {
+        "caption": "A timelapse captures the transformation of a glass of water as the temperature significantly drops to very low levels.",
+        "physical_laws": "Because the temperature drops below the freezing point, the water will freeze",
+        "sub_category": "Solidification",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of a glass of juice as the temperature significantly drops to very low levels.",
+        "physical_laws": "Because the temperature drops below the freezing point, the juice will freeze",
+        "sub_category": "Solidification",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of a glass of milk as the temperature significantly drops to very low levels.",
+        "physical_laws": "Because the temperature drops below the freezing point, the milk will freeze",
+        "sub_category": "Solidification",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of a glass of oil as the temperature significantly drops to very low levels.",
+        "physical_laws": "Because the temperature drops below the freezing point, the oil will freeze",
+        "sub_category": "Solidification",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of a glass of beer as the temperature significantly drops to very low levels.",
+        "physical_laws": "Because the temperature drops below the freezing point, the beer will freeze",
+        "sub_category": "Solidification",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the gradual transformation of a piece of ice as the temperature rises significantly.",
+        "physical_laws": "Because the temperature rises above the melting point, the ice will melt",
+        "sub_category": "Melting",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the gradual transformation of a candle as the temperature rises significantly.",
+        "physical_laws": "Because the temperature rises above the melting point, the candle will melt",
+        "sub_category": "Melting",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the gradual transformation of butter as the temperature rises significantly.",
+        "physical_laws": "Because the temperature rises above the melting point, the butter will melt",
+        "sub_category": "Melting",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the gradual transformation of ice cream as the temperature rises significantly.",
+        "physical_laws": "Because the temperature rises above the melting point, the ice cream will melt",
+        "sub_category": "Melting",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the gradual transformation of wax as the temperature rises significantly.",
+        "physical_laws": "Because the temperature rises above the melting point, the wax will melt",
+        "sub_category": "Melting",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as water vapor in a humid environment comes into contact with a cool glass surface.",
+        "physical_laws": "Because temperature of glass is much lower than that of water vapor, water vapor will liquefy into water droplets",
+        "sub_category": "Liquefaction",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as fog in a cold environment comes into contact with a warm car window.",
+        "physical_laws": "Because temperature of window is much lower than that of fog, fog will condense into water droplets",
+        "sub_category": "Liquefaction",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as steam in a kitchen environment comes into contact with a cool metal pot lid.",
+        "physical_laws": "Because temperature of pot lid is much lower than that of steam, steam will condense into water droplets",
+        "sub_category": "Liquefaction",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as mist in a greenhouse environment comes into contact with a cool plastic sheet.",
+        "physical_laws": "Because temperature of plastic sheet is much lower than that of mist, mist will condense into water droplets",
+        "sub_category": "Liquefaction",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as water vapor in a greenhouse environment comes into contact with a cool plastic sheet.",
+        "physical_laws": "Because temperature of plastic sheet is much lower than that of water vapor, water vapor will condense into water droplets",
+        "sub_category": "Liquefaction",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of water in a pot as the temperature rapidly rises above 100\u00b0C.",
+        "physical_laws": "Because the temperature reaches boiling point, the water will boil and a large number of bubbles will surge to the water surface",
+        "sub_category": "Boiling",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of milk in a kettle as the temperature rapidly rises above 100\u00b0C.",
+        "physical_laws": "Because the temperature reaches boiling point, the milk will boil and a large number of bubbles will surge to the milk surface",
+        "sub_category": "Boiling",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of soup in a saucepan as the temperature rapidly rises above 100\u00b0C.",
+        "physical_laws": "Because the temperature reaches boiling point, the soup will boil and a large number of bubbles will surge to the soup surface",
+        "sub_category": "Boiling",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of tea in a teapot as the temperature rapidly rises above 100\u00b0C.",
+        "physical_laws": "Because the temperature reaches boiling point, the tea will boil and a large number of bubbles will surge to the tea surface",
+        "sub_category": "Boiling",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of oil in a cauldron as the temperature rapidly rises above 100\u00b0C.",
+        "physical_laws": "Because the temperature reaches boiling point, the oil will boil and a large number of bubbles will surge to the coffee surface",
+        "sub_category": "Boiling",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as water vapor in a humid environment comes into contact with a cold glass surface.",
+        "physical_laws": "Because the temperature of the glass is much lower than that of the water vapor and below the freezing point, the water vapor will sublimate into frost.",
+        "sub_category": "deposition",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as steam in a kitchen comes into contact with a cold window.",
+        "physical_laws": "Because the temperature of the window is much lower than that of the steam and below the freezing point, the steam will sublimate into frost.",
+        "sub_category": "deposition",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as mist in a rainforest comes into contact with a cold metal surface.",
+        "physical_laws": "Because the temperature of the metal surface is much lower than that of the mist and below the freezing point, the mist will sublimate into frost.",
+        "sub_category": "deposition",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as fog in a mountainous region comes into contact with a cold car windshield.",
+        "physical_laws": "Because the temperature of the windshield is much lower than that of the fog and below the freezing point, the fog will sublimate into frost.",
+        "sub_category": "deposition",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation as moisture in the air of a refrigerated room comes into contact with a cold plastic bottle.",
+        "physical_laws": "Because the temperature of the bottle is much lower than that of the moisture and below the freezing point, the moisture will sublimate into frost.",
+        "sub_category": "deposition",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of dry ice as it is exposed to a gradually increasing temperature at room temperature",
+        "physical_laws": "Dry ice (solid carbon dioxide) in the sublimation process due to the rapid decrease in temperature will make the water vapor in the surrounding air condense into small water droplets forming visible fog",
+        "sub_category": "Sublimation",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of naphthalene as it is exposed to gradually increasing temperature at room temperature",
+        "physical_laws": "Naphthalene in the sublimation process due to the release of volatile organic compounds will emit a distinctive odor and can form vapor under mild heating conditions.",
+        "sub_category": "Sublimation",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of iodine crystals as they are exposed to gradually increasing temperature at room temperature",
+        "physical_laws": "Iodine crystals in the sublimation process will turn directly into purple vapor without passing through a liquid phase, which can be seen as the temperature rises.",
+        "sub_category": "Sublimation",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of camphor as it is exposed to gradually increasing temperature at room temperature",
+        "physical_laws": "Camphor in the sublimation process will release its characteristic strong aroma as it transforms from a solid directly into a gas under mild heating.",
+        "sub_category": "Sublimation",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "A timelapse captures the transformation of arsenic trioxide as it is exposed to gradually increasing temperature at room temperature",
+        "physical_laws": "Arsenic trioxide in the sublimation process will produce a toxic white vapor without liquefying, which occurs at moderately elevated temperatures.",
+        "sub_category": "Sublimation",
+        "main_category": "Heat"
+    },
+    {
+        "caption": "Equal amounts of red and blue paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",
+        "physical_laws": "The color mixed should be purple",
+        "sub_category": "Color",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "Equal amounts of yellow and red paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",
+        "physical_laws": "The color mixed should be orange",
+        "sub_category": "Color",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "Equal amounts of green and blue paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",
+        "physical_laws": "The color mixed should be teal",
+        "sub_category": "Color",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "Equal amounts of cyan and magenta paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",
+        "physical_laws": "The color mixed should be purple",
+        "sub_category": "Color",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "Equal amounts of pink and white paint are rapidly combined, with the mixture being vigorously stirred until fully blended.",
+        "physical_laws": "The color mixed should be light pink",
+        "sub_category": "Color",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A piece of copper is ignited, emitting a vivid and unique flame as it burns steadily.",
+        "physical_laws": "Due to flame reaction, the color of the flame should be green",
+        "sub_category": "Flame Reaction",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A piece of magnesium is ignited, emitting a vivid and unique flame as it burns steadily.",
+        "physical_laws": "Due to flame reaction, the color of the flame should be white",
+        "sub_category": "Flame Reaction",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A piece of lithium is ignited, emitting a vivid and unique flame as it burns steadily.",
+        "physical_laws": "Due to flame reaction, the color of the flame should be red",
+        "sub_category": "Flame Reaction",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A piece of sodium is ignited, emitting a vivid and unique flame as it burns steadily.",
+        "physical_laws": "Due to flame reaction, the color of the flame should be yellow",
+        "sub_category": "Flame Reaction",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A piece of potassium is ignited, emitting a vivid and unique flame as it burns steadily.",
+        "physical_laws": "Due to flame reaction, the color of the flame should be lilac",
+        "sub_category": "Flame Reaction",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A delicate, fragile egg is hurled with significant force towards a rugged, solid rock surface, where it collides upon impact",
+        "physical_laws": "The hardness of the stone is very high and the hardness of the raw egg is very low, so the egg will break when it hits the stone",
+        "sub_category": "Hardness",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A lightweight, fragile vase is thrown with great force against a sturdy, concrete wall, where it collides upon impact",
+        "physical_laws": "The hardness of the concrete is very high and the hardness of the vase is very low, so the vase will break when it hits the concrete",
+        "sub_category": "Hardness",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A delicate, fragile glass bottle is hurled with significant force towards a rugged, solid rock surface, where it collides upon impact",
+        "physical_laws": "The hardness of the stone is very high and the hardness of the glass bottle is low, so the bottle will shatter when it hits the stone",
+        "sub_category": "Hardness",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A flimsy, brittle glass cup is propelled with force towards a solid, metallic surface, where it collides upon impact",
+        "physical_laws": "The hardness of the metal is very high and the hardness of the glass cup is very low, so the glass cup will break when it hits the metal",
+        "sub_category": "Hardness",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A weak, frail porcelain plate is flung with significant speed at a robust, wooden table, where it collides upon impact",
+        "physical_laws": "The hardness of the wood is very high and the hardness of the porcelain plate is very low, so the porcelain plate will break when it hits the wood",
+        "sub_category": "Hardness",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A clear glass of oil is gently poured into a glass of water.",
+        "physical_laws": "Due to immiscibility, oil and water cannot dissolve each other, there is a stratification of the liquid surface",
+        "sub_category": "Solubility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A clear glass of honey is gently poured into a glass of milk.",
+        "physical_laws": "Due to immiscibility, honey and milk cannot dissolve each other, there is a stratification of the liquid surface.",
+        "sub_category": "Solubility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A clear glass of vinegar is gently poured into a glass of water.",
+        "physical_laws": "Due to solubility, vinegar will mix with water.",
+        "sub_category": "Solubility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A clear glass of juice is gently poured into a glass of water.",
+        "physical_laws": "Due to solubility, juice will mix with water.",
+        "sub_category": "Solubility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A bottle of vinegar is gently poured into a glass of oil.",
+        "physical_laws": "Due to immiscibility, vinegar and oil cannot dissolve each other, there is a stratification of the liquid surface.",
+        "sub_category": "Solubility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A small burning ball of paper was thrown into a pile of dry paper.",
+        "physical_laws": "Due to combustibility of wood, the wood will be ignited And it burns more and more vigorously",
+        "sub_category": "Combustibility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A small burning match was thrown into a pile of dry leaves.",
+        "physical_laws": "Due to combustibility of leaves, the leaves will be ignited And it burns more and more vigorously",
+        "sub_category": "Combustibility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A small burning stick was thrown into a pile of hay.",
+        "physical_laws": "Due to combustibility of hay, the hay will be ignited And it burns more and more vigorously",
+        "sub_category": "Combustibility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A small burning candle was thrown into a pile of dry grass.",
+        "physical_laws": "Due to combustibility of grass, the grass will be ignited And it burns more and more vigorously",
+        "sub_category": "Combustibility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A small burning piece of cloth was thrown into a pile of old newspapers.",
+        "physical_laws": "Due to combustibility of paper, the paper will be ignited And it burns more and more vigorously",
+        "sub_category": "Combustibility",
+        "main_category": "Physical Properties"
+    },
+    {
+        "caption": "A timelapse captures the transformation as colorless vinegar is poured into a glass of purple litmus solution.",
+        "physical_laws": "The color of the litmus solution will change from purple to red",
+        "sub_category": "Acidity and Alkalinity",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the transformation as hydrochloric acid is poured into a glass of purple litmus solution.",
+        "physical_laws": "The color of the litmus solution will change from purple to red",
+        "sub_category": "Acidity and Alkalinity",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the transformation as colorless soda water is added to a glass of blue litmus solution.",
+        "physical_laws": "The solution color remains blue",
+        "sub_category": "Acidity and Alkalinity",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the transformation as lemon juice is poured into a glass of red cabbage juice.",
+        "physical_laws": "Acid and base reaction resulting in color change and the release of gases.",
+        "sub_category": "Acidity and Alkalinity",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the transformation as orange juice is mixed with baking soda in a clear cup.",
+        "physical_laws": "Citric acid and baking soda react, producing carbon dioxide bubbles.",
+        "sub_category": "Acidity and Alkalinity",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the reaction as concentrated sulfuric acid is poured onto a piece of bread.",
+        "physical_laws": "Due to dehydration property of sulfuric acid, the bread will shrink, carbonize and turn black, releasing large amounts of acidic gas",
+        "sub_category": "Dehydration property",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the reaction as concentrated sulfuric acid is poured onto a slice of apple.",
+        "physical_laws": "Due to dehydration property of sulfuric acid, the apple will shrink, carbonize and turn black, releasing large amounts of acidic gas",
+        "sub_category": "Dehydration property",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the reaction as concentrated sulfuric acid is poured onto a sheet of paper.",
+        "physical_laws": "Due to dehydration property of sulfuric acid, the paper will shrink, carbonize and turn black, releasing large amounts of acidic gas",
+        "sub_category": "Dehydration property",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the reaction as concentrated sulfuric acid is poured onto a cotton ball.",
+        "physical_laws": "Due to dehydration property of sulfuric acid, the cotton ball will shrink, carbonize and turn black, releasing large amounts of acidic gas",
+        "sub_category": "Dehydration property",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the reaction as concentrated sulfuric acid is poured onto a sponge.",
+        "physical_laws": "Due to dehydration property of sulfuric acid, the sponge will shrink, carbonize and turn black, releasing large amounts of acidic gas",
+        "sub_category": "Dehydration property",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the transformation of a clean and smooth piece of iron in a humid environment over decades.",
+        "physical_laws": "Due to its redox property, iron will rust",
+        "sub_category": "Redox property",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse captures the transformation of a clean and smooth piece of steel in a humid environment over decades.",
+        "physical_laws": "Due to its redox property, steel will rust",
+        "sub_category": "Redox property",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse shows the changes in a shiny and new metal chair left outdoors in the rain over a long period.",
+        "physical_laws": "Due to its redox property, metal will rust",
+        "sub_category": "Redox property",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse video documents the gradual decay of a polished metal railing exposed to the elements over years.",
+        "physical_laws": "Due to its redox property, metal will rust",
+        "sub_category": "Redox property",
+        "main_category": "Chemical Properties"
+    },
+    {
+        "caption": "A timelapse records the oxidation process of a bright and new metal bedframe kept in a damp location over several years.",
+        "physical_laws": "Due to its redox property, metal will rust",
+        "sub_category": "Redox property",
+        "main_category": "Chemical Properties"
+    }
+]
