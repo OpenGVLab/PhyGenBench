@@ -25,7 +25,7 @@ This repository is the official implementation of [PhyGenBench]([https://arxiv.o
 
 We introduce **PhyGenBench**, a comprehensive **Phy**sics **Gen**eration **Bench**mark designed to evaluate physical commonsense correctness in T2V generation. PhyGenBench comprises 160 carefully crafted prompts across 27 distinct physical laws, spanning four fundamental domains, which could comprehensively assesses models' understanding of physical commonsense. Alongside PhyGenBench, we propose a novel evaluation framework called **PhyGenEval**. This framework employs a hierarchical evaluation structure utilizing appropriate advanced vision-language models and large language models to assess physical commonsense. Through PhyGenBench and PhyGenEval, we can conduct large-scale automated assessments of T2V models' understanding of physical commonsense, which align closely with human feedback. Our evaluation results and in-depth analysis demonstrate that current models struggle to generate videos that comply with physical commonsense. Moreover, simply scaling up models or employing prompt engineering techniques is insufficient to fully address the challenges presented by PhyGenBench (e.g., dynamic physical phenomenons). We hope this study will inspire the community to prioritize the learning of physical commonsense in these models beyond entertainment applications.
 
-![overview](static/overview.png)
+<img src="static/overview.png" alt="overview" style="zoom:80%;" />
 
 
 
@@ -69,7 +69,7 @@ we design a progressive strategy that starts with key physical phenomena, then m
 ### Environment
 
 ```
-git clone
+git clone https://github.com/OpenGVLab/PhyGenBench
 cd PhyGenBench
 ```
 
