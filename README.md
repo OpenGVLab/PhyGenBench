@@ -75,15 +75,15 @@ cd PhyGenBench
 
 
 
-For our evaluation process, whether using GPT-4o or open-source models, both start at the **First stage: Key Physical Phenomena Detection** and use **VQAScore**.
+- For our evaluation process, whether using GPT-4o or open-source models, both start at the **First stage: Key Physical Phenomena Detection** and use **VQAScore**.
 
 You can refer to the [official repo](https://github.com/linzhiqiu/t2v_metrics) for details.
 
-**Second Stage: Physics Order Verification**: For our closed-source model, we use GPT-4o (only requires API configuration), and for the open-source model, we use **LLava-Interleave-dpo-7B**.
+- **Second Stage: Physics Order Verification**: For our closed-source model, we use GPT-4o (only requires API configuration), and for the open-source model, we use **LLava-Interleave-dpo-7B**.
 
 Please refer to the [official repo](https://github.com/LLaVA-VL/LLaVA-NeXT) for details.
 
-**Third stage: Overall Naturalness Evaluation**: For the closed-source model, we use GPT-4o (only requires API configuration), and for the open-source model, we use **InternVideo2**, which is the same model used by [ChronoMagic-Bench](https://github.com/PKU-YuanGroup/ChronoMagic-Bench).
+- **Third stage: Overall Naturalness Evaluation**: For the closed-source model, we use GPT-4o (only requires API configuration), and for the open-source model, we use **InternVideo2**, which is the same model used by [ChronoMagic-Bench](https://github.com/PKU-YuanGroup/ChronoMagic-Bench).
 
 We use the same environment with [ChronoMagic-Bench](https://github.com/PKU-YuanGroup/ChronoMagic-Bench). The model ckp is at [huggingface](https://huggingface.co/OpenGVLab/InternVideo2-Stage2_1B-224p-f4).
 
