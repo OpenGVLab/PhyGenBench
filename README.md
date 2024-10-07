@@ -64,7 +64,7 @@ we design a progressive strategy that starts with key physical phenomena, then m
 - PhyGenEval includes codes of the semantic evaluation method, as well as the codes of the three-stage physical commonsense evaluation methods: single, multi, video
 - result contains the evaluation results of Kling on PhyGenBench: **kelingall.json**
 - PhyVideos contains the **videos to be tested**. Please generate the videos according to prompts.json and place them here.
-	- For example, for Kling, name the files as output_video_{index+1}.mp4, where index corresponds to the prompt number in prompts.json
+	- For example, for Kling, name the files as **output_video_{index+1}.mp4**, where index corresponds to the prompt number in prompts.json
 
 ### Environment
 
@@ -108,11 +108,13 @@ python PhyGenEval/multi/generate_question.py
 python PhyGenEval/video/generate_question.py
 ```
 
-single_question.json, multi_question.json, and video_question.json in PhyGenBench is the questions we used.
+PhyGenBench/single_question.json, PhyGenBench/multi_question.json, and PhyGenBench/video_question.json are questions we generated at different stages.
 
 
 
 ### Three-tier Evaluation
+
+Our evaluations all use only one A100-80G. When using it, we have marked the python files that need to be allowed. Please write the appropriate script file according to your system (slurm or ...)
 
 **Key Physical Phenomena Detection:**
 
@@ -151,7 +153,7 @@ cd PhyGenEval/video/MTScore
 python InternVideo_physical.py
 ```
 
-**Overall Score**
+**Overall Score Calculation**
 
 ```
 python PhyGenEval/overall.py
