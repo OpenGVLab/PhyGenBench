@@ -1,6 +1,6 @@
 # Video Evaluation Tool
 
-This is a tool for evaluating the quality of generated videos, primarily based on GPT-4 and computer vision technologies.
+This is a tool for evaluating the quality of generated videos, primarily based on GPT-4o.
 
 ## Requirements
 
@@ -14,8 +14,8 @@ This is a tool for evaluating the quality of generated videos, primarily based o
 2. Clone this repository to your local machine:
 
    ```
-   git clone [repository URL]
-   cd [repository directory]
+   git clone https://github.com/OpenGVLab/PhyGenBench.git
+   cd PhyGenEval/semantic
    ```
 
 3. Create and activate a virtual environment (optional but recommended):
@@ -45,11 +45,9 @@ This is a tool for evaluating the quality of generated videos, primarily based o
 3. Key parameters:
    - `--openai_api_key`: Your OpenAI API key (required)
    - `--directory`: Directory containing video files
-   - `--modelnames`: Names of models to evaluate (can specify multiple, ['kling', 'cogvideo5b'])
+   - `--modelnames`: Names of models to evaluate (can specify multiple, 'kling', 'cogvideo5b')
    - `--output_dir`: Directory for output results
    - `--num_frames`: Number of frames to extract from each video (default 16)
    - `--gpt_augment_eval`: Path to JSON file containing evaluation data
 
 4. The script will process videos in the specified directory and generate CSV files with evaluation results in the output directory.
-
-python gpt4o_sementic.py --openai_api_key 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 --directory /Users/ljq/Downloads/mnt/petrelfs/mengfanqing/codebase_ljq/Phy_Score/PhyBench-Videos --modelnames 'keling' --output_dir /Users/ljq/Downloads/
