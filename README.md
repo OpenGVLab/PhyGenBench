@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="#🚀-quick-start"><b>Quick Start</b></a> |
-  <a href="https://mmiu-bench.github.io/"><b>HomePage</b></a> |
+  <a href="https://phygenbench123.github.io/"><b>HomePage</b></a> |
   <a href="https://arxiv.org/abs/2408.02718"><b>arXiv</b></a> |
 </a> 
   <a href="#🖊️-citation"><b>Citation</b></a> <br>
