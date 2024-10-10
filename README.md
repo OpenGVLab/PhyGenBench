@@ -171,8 +171,8 @@ python PhyGenEval/overall.py
 
 
 ## 📒Note
-- The viersion of GPT-4o is gpt4o-0513
-- If using the closed-source model for testing, you only need to configure VQAScore and prepare the API key. This method also provides results that are highly consistent with human feedback.
+- The version of GPT-4o is gpt4o-0513
+- If using the GPT-4o for testing, you only need to configure VQAScore and prepare the API key. This method also provides results that are highly consistent with human feedback.
 
 ## 📧 Contact
 If you have any questions, feel free to contact Fanqing Meng with mengfanqing33@gmail.com
