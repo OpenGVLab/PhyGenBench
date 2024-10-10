@@ -3,7 +3,7 @@
 <p align="left">
   <a href="#🚀-quick-start"><b>Quick Start</b></a> |
   <a href="https://phygenbench123.github.io/"><b>HomePage</b></a> |
-  <a href="https://arxiv.org/abs/2408.02718"><b>arXiv</b></a> |
+  <a href="https://arxiv.org/abs/2410.05363"><b>arXiv</b></a> |
 </a> 
   <a href="#🖊️-citation"><b>Citation</b></a> <br>
 </p>
@@ -16,6 +16,8 @@ This repository is the official implementation of [PhyGenBench]([https://arxiv.o
 > <sup>\#</sup> SWQ (shaowenqi@pjlab.org.cn) and LP are correponding authors. 
 
 ## 💡 News
+
+- '2024/10/10': We release our paper at https://arxiv.org/abs/2410.05363
 
 - `2024/10/07`: We release our [homepage](https://phygenbench123.github.io/), where have more video examples for demonstration
 
