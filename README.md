@@ -63,7 +63,7 @@ we design a progressive strategy that starts with key physical phenomena, then m
 ## 🚀 Quick Start
 
 ### File Structure
-- PhyGenBench, which includes the test prompt: **prompts.json**
+- PhyGenBench, which includes the test prompt: **prompts.json**, which **explicit_captions.json** is to evaluate rewriting prompt in Discussion (Appendix. D)
 - PhyGenBench also includes the example questions we showcase in three different stages in PhyGenEval: **single_question.json, multi_question.json, and video_question.json**
 - PhyGenEval includes codes of the semantic evaluation method, as well as the codes of the three-stage physical commonsense evaluation methods: single, multi, video
 - result contains the evaluation results of Kling on PhyGenBench: **kelingall.json**
